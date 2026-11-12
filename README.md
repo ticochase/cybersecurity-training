@@ -27,3 +27,16 @@ My main focus is now on earning my CompTIA A+ certification. My source of learni
 2.1 - Ports and Protocols
 - Introduction to IP
 - Common Ports
+
+### 11/11/2026
+I had some edits wrote up in these notes that I forgot to commit. Regardless, I want to change my study plans. From what I researched, the Professor Messer videos should be my primary source of learning, the ExamCompass practice quizzes are overkill. This makes sense as a lot of these questions require very niche answers, something I don't expect to be on the exam. I might still end up doing the ExamCompass practice quizzes for Core 1, but these quizzes should not be something I do before I were to watch these videos.
+
+I plan on watching these quiz videos as well from BurningIceTech:
+- https://youtu.be/19-m5j-rWA0?si=1EDM_Y8MNTAu5skv
+- https://youtu.be/awrOhHoA1Ww?si=-2nNX7DLs3LVwXTM
+- https://youtu.be/xsn24FPh6sE?si=AyRDrsNSjtlz9Tb6
+- https://youtu.be/sMTcpALh8x4?si=SDdag5Cm01-OWS79
+- https://youtu.be/kkInmdKwppU?si=QWZX9Lw6HpFRaVtH
+- https://youtu.be/sTbL_htxioc?si=enWnMuGd4Nn1iZl7
+
+These videos are practice quizzes, but also explain every answer. They cover both Core 1 and Core 2. 
