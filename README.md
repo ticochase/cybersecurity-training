@@ -40,3 +40,31 @@ I plan on watching these quiz videos as well from BurningIceTech:
 - https://youtu.be/sTbL_htxioc?si=enWnMuGd4Nn1iZl7
 
 These videos are practice quizzes, but also explain every answer. They cover both Core 1 and Core 2. 
+
+### Today I finished:
+
+### Videos
+2.2 - Wireless Networks
+- Wireless Network Technologies
+
+2.3 - Network Services
+- Network Services
+
+2.4 - Network Configurations
+- DNS Configuration
+- DHCP
+- VLANs and VPNs
+
+2.5 - Network Devices
+- Network Devices
+
+2.6 - Network Configurations
+- IPv4 and IPv6
+- Assigning IP Addresses
+
+2.7 - Network Connections
+- Internet Connection Types
+- Network Types
+
+2.8 - Network Tools
+- Network Tools
