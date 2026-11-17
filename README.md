@@ -68,3 +68,54 @@ These videos are practice quizzes, but also explain every answer. They cover bot
 
 2.8 - Network Tools
 - Network Tools
+
+### 11/13/2026
+
+### Today I finished:
+
+### Videos
+3.1 - Displays
+- Display Types
+- Display Attributes
+
+3.2 - Cables and Connectors
+- Network Cables
+- 568A and 568B Colors
+- Optical Fiber
+- Peripheral Cables
+- Video Cables
+- Storage Cables
+- Adapters and Converters
+- Copper Connectors
+- Fiber Connectors
+
+3.3 - Memory
+- An Overview of Memory
+- Memory Technologies
+
+### 11/16/2026
+
+### Today I finished:
+
+### Videos
+3.4 - Storage Devices
+- Storage Devices
+- RAID
+
+3.5 - Motherboards
+- Motherboard Form Factors
+- Motherboard Expansion Slots
+- Motherboard Connections
+- Motherboard Compatibility
+- The BIOS
+- BIOS Settings
+- HSM and TPM
+- CPU Features
+- Expansion Cards
+- Cooling
+
+3.6 - Power
+- Computer Power
+
+3.7 - Multifunction Devices
+- Multifunction Devices
