@@ -119,3 +119,25 @@ These videos are practice quizzes, but also explain every answer. They cover bot
 
 3.7 - Multifunction Devices
 - Multifunction Devices
+
+### 11/18/2026
+
+### Today I finished:
+
+### Videos
+3.8 - Printers
+- Laser Printer Maintenance
+- Inkjet Printers
+- Inkjet Printer Maintenance
+- Thermal Printers
+- Thermal Printer Maintenance
+- Impact Printers
+- Impact Printer Maintenance
+
+4.1 - Virtualization
+- Virtualization Concepts
+- Virtualization Services
+
+4.2 - Cloud Computing
+- Cloud Models
+- Cloud Characteristics
