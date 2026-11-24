@@ -141,3 +141,27 @@ These videos are practice quizzes, but also explain every answer. They cover bot
 4.2 - Cloud Computing
 - Cloud Models
 - Cloud Characteristics
+
+### 11/23/2026
+I have been busy the past couple of days and haven't studied as much as I wanted to, but I managed to finish the rest of the Professor Messer videos for Core 1. I now plan on taking some quizzes created by AI, doing some ExamCompass quizzes for some of the harder sections, and watching the Core 1 quiz YouTube videos listed earlier before. There is a chance I may take and complete the Core 1 section before December.
+
+### Today I finished:
+
+### Videos
+5.1 - Troubleshooting Hardware
+- Troubleshooting Hardware
+
+5.2 - Troubleshooting Storage
+- Troubleshooting Storage Devices
+
+5.3 - Troubleshooting Displays
+- Troubleshooting Display Issues
+
+5.4 - Troubleshooting Mobile Devices
+- Troubleshooting Mobile Devices
+
+5.5 - Troubleshooting Networks
+- Troubleshooting Networks
+
+5.6 - Troubleshooting Printers
+- Troubleshooting Printers
