@@ -165,3 +165,12 @@ I have been busy the past couple of days and haven't studied as much as I wanted
 
 5.6 - Troubleshooting Printers
 - Troubleshooting Printers
+
+### 11/25/2026
+
+### Today I finished:
+
+### Quizzes
+- BurningIceTech Core 1 A+ Practice Exam Version 1 - Best Score: 84% (1st Attempt) (https://youtu.be/19-m5j-rWA0?si=1EDM_Y8MNTAu5skv)
+- BurningIceTech Core 1 A+ Practice Exam Version 2 - Best Score: 83% (1st Attempt) (https://youtu.be/awrOhHoA1Ww?si=-2nNX7DLs3LVwXTM)
+- BurningIceTech Core 1 A+ Practice Exam Version 3 - Best Score: 80% (1st Attempt) (https://youtu.be/xsn24FPh6sE?si=AyRDrsNSjtlz9Tb6)
